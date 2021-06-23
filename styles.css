@@ -1,0 +1,45 @@
+
+/**Habría que agregar clases al documento phtml**/
+
+.shipping-price-container{
+
+    border-radius: 10px;
+    border: 1px solid #999;
+    max-width: 100%;
+    padding: 0 20px;
+    float: right;
+    width: 250px;
+}
+
+.shipping-price-container h3{
+    font-weight: 700;
+}
+
+
+.product-reviews-summary.empty .reviews-actions{
+    display: flex;
+    align-items: center;
+}
+
+.product-options-bottom .shipping-container{
+
+    padding-right: 100px;
+    font-size: 20px;
+
+
+}
+
+.actions.content_wishlist_btn{
+    display: flex;
+}
+
+.shipping-options{
+    display: flex;
+    align-content: stretch;
+    align-items: center;
+}
+
+.shipping-options p{
+    padding-right: 100px;
+    font-size: 20px;
+}
